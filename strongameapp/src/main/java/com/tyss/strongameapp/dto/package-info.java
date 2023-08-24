@@ -1,0 +1,1 @@
+package com.tyss.strongameapp.dto;
